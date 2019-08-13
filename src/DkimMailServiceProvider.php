@@ -1,6 +1,6 @@
 <?php
 
-namespace Vitalybaev\LaravelDkim;
+namespace samhk222\LaravelDkim;
 
 use Illuminate\Mail\MailServiceProvider;
 

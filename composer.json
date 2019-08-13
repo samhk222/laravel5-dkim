@@ -1,19 +1,19 @@
 {
-    "name": "vitalybaev/laravel5-dkim",
+    "name": "samhk222/laravel5-dkim",
     "description": "Laravel 5 package for signing outgoing messages with DKIM.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Vitaly Baev",
-            "email": "dj@vitalybaev.ru"
+            "name": "Samuel",
+            "email": "samuca@samuca.com"
         }
     ],
     "require": {
-        "laravel/framework": "^5.2"
+        "laravel/framework": "^5.7"
     },
     "autoload": {
         "psr-4": {
-            "Vitalybaev\\LaravelDkim\\": "src/"
+            "samhk222\\LaravelDkim\\": "src/"
         }
     }
 }
