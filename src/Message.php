@@ -1,6 +1,6 @@
 <?php
 
-namespace samhk222\LaravelDkim;
+namespace Samhk222\LaravelDkim;
 
 use Swift_Signers_DKIMSigner;
 
